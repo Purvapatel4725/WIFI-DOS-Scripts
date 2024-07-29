@@ -4,7 +4,7 @@ This repository contains Python scripts designed to perform Denial of Service (D
 
 ## Scripts Overview
 
-### `wifi_dos3.py`
+### `wifi_dos.py`
 
 This script performs a WiFi DoS attack by deauthenticating clients from a selected access point. The process involves:
 1. **Scanning for Wireless Interfaces**: Identifies available WiFi interfaces on the system.
