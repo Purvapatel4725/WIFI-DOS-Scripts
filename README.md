@@ -54,5 +54,3 @@ This script performs a similar function to `wifi_dos_type1.py` but includes some
 **These scripts are intended for educational and testing purposes only. Do not use them for unauthorized attacks on networks. Always ensure you have explicit permission to test the network you are targeting. Unauthorized use of these tools is illegal and can result in severe penalties.**
 
 **Author:** Purva Patel
-
----
